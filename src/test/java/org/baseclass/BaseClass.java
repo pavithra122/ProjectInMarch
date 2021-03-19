@@ -192,6 +192,10 @@ public class BaseClass {
 		}
 		return value;
 	}
+	private void defaultmethod() {
+		
+
+	}
 	
 	
 	
