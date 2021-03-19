@@ -197,6 +197,14 @@ public class BaseClass {
 
 	}
 	
+	private void indhuMethod() {
+		
+	}
+	
+	private void nilaMethod() {
+		
+	}
+	
 	
 	
 	
